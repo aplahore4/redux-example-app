@@ -1,5 +1,7 @@
+import Counter from './components/Counter'
+
 function App() {
-  return <div>Empty Canvas</div>
+  return <Counter></Counter>
 }
 
 export default App
